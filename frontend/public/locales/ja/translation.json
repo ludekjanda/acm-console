@@ -2,7 +2,7 @@
   " No status: ": " ステータスなし:",
   " With violations: ": " 違反あり:",
   " Without violations: ": " 違反なし:",
-  "\"{{name}}\" is not an existing Ansible job": "\"{{name}}\" は、既存のAnsibleジョブではありません。",
+  "\"{{name}}\" is not an existing Ansible job": "\"{{name}}\" は、既存の Ansible ジョブではありません。",
   "\"{{name}}\" is not an existing Ansible workflow": "\"{{name}}\" は、既存の Ansible ワークフローではありません。",
   "\"{{testSecret}}\" is not an existing Ansible credential": "\"{{testSecret}}\" は、既存のAnsibleクレデンシャルではありません。",
   "({{0}} of {{0}})": "({{0}} / {{0}})",
